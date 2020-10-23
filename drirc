@@ -1,0 +1,14 @@
+<device screen="0" driver="dri*">
+        <application name="Default">
+                <option name="vblank_mode" value="1"/>
+        </application>
+</device>
+
+<driconf>
+   <device driver="*">
+        <application name="Default">
+            <option name="stub_occlusion_query" value="true" />
+            <option name="fragment_shader" value="true" />
+        </application>
+    </device>
+</driconf>
