@@ -19,6 +19,10 @@ Exit end reboot session run terminal command:
 
 $ glxgears
 
+$ vblank_mode=0 glxgears
+
+$ vblank_mode=1 glxgears
+
 
 
 
