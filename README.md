@@ -23,6 +23,12 @@ $ vblank_mode=0 glxgears
 
 $ vblank_mode=1 glxgears
 
+Dri prime varint test glxgears
+
+$ DRI_PRIME=1 glxgears
+
+$ DRI_PRIME=0 glxgears
+
 
 
 
