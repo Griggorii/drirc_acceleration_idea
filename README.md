@@ -56,7 +56,9 @@ $ DRI_PRIME=0 vblank_mode=1 stub_occlusion_query=0 fragment_shader=0 glxgears
 $ DRI_PRIME=0 vblank_mode=1 stub_occlusion_query=0 fragment_shader=1 glxgears
 
 
+$ echo $vblank_mode 1
 
+$ echo -e $vblank_mode 1 glxgears
 
 
 
