@@ -60,6 +60,10 @@ $ echo $vblank_mode 1
 
 $ echo $vblank_mode 0
 
+$ echo -e $vblank_mode 1
+
+$ echo -e $vblank_mode 0
+
 $ echo -e $vblank_mode 1 glxgears
 
 
