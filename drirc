@@ -1,0 +1,21 @@
+# copyright generation drirc my chromium os 77 https://github.com/Griggorii/Chromium_OS_77  , my license is not free re-edit vendor Intel, AMD, nvidia and alternate vendor fork submit publish prohibited ! Examples of using $ sudo cp drirc /etc/ and home $ cp drirc ~/.drirc and rename .drirc
+
+# Only real technologies, not any fictional parasitic distributions support real technology investments and donate VISA 4817 7601 8112 4706 griggorii@gmail.com
+
+<driconf>
+   <device driver="i965">
+      <application name="Default">
+         <!-- Force on S3TC hardware decompression support -->
+         <option name="force_s3tc_enable" value="true"/>
+         <option name="precise_trig" value="true"/>
+      </application>
+   </device>
+   <device driver="i915">
+      <application name="Default">
+         <!-- Force on S3TC hardware decompression support -->
+         <option name="force_s3tc_enable" value="true"/>
+      </application>
+   </device>
+</driconf>
+
+
