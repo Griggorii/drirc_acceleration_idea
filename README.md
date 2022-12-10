@@ -1,4 +1,4 @@
-# drirc_acceleration_idea
+# drirc_acceleration_idea + dual speed intel https://github.com/Griggorii/linux_xorg_glamor_perfomance_drawing_dual
 drirc , linux , acceleration , dri , universal hack * testing
 
 $ cd ~/
